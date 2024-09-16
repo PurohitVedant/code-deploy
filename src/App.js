@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          vedant or lekhraj
+          vedant or to or lekhraj
         </p>
         
         <a
